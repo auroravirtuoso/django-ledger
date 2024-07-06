@@ -15,7 +15,7 @@ in contributing, consider joining our new discord channel for further collaborat
 
 Access the latest documentation and QuickStart guide [here](https://django-ledger.readthedocs.io/en/latest/).
 Also, you may download the QuickStart Jupyter Notebook
-[here](https://github.com/arrobalytics/django-ledger/blob/develop/notebooks/QuickStart%20Notebook.ipynb).
+[here](https://github.com/auroravirtuoso/django-ledger/blob/develop/notebooks/QuickStart%20Notebook.ipynb).
 
 # Main Features
 
@@ -52,7 +52,7 @@ reach out to me or submit your pull request.
 You can find the contribution guidelines at the specified link. 
 The project welcomes anyone interested in making a contribution.
 
-See __[contribution guidelines](https://github.com/arrobalytics/django-ledger/blob/develop/Contribute.md)__.
+See __[contribution guidelines](https://github.com/auroravirtuoso/django-ledger/blob/develop/Contribute.md)__.
 
 # Installation
 
@@ -63,7 +63,7 @@ is [here](https://docs.djangoproject.com/en/4.2/intro/tutorial01/#creating-a-pro
 Make sure you refer to the django version you are using.
 
 The easiest way to start is to use the zero-config Django Ledger starter template. See
-details [here](https://github.com/arrobalytics/django-ledger-starter). Otherwise, you may create your
+details [here](https://github.com/auroravirtuoso/django-ledger-starter). Otherwise, you may create your
 project from scratch.
 
 To create a new Django Ledger project:
@@ -160,7 +160,7 @@ for production environments. If you want to contribute to the project perform th
 2. Clone the repo from github and CD into project.
 
 ```shell
-git clone https://github.com/arrobalytics/django-ledger.git && cd django-ledger
+git clone https://github.com/auroravirtuoso/django-ledger.git && cd django-ledger
 ```
 
 3. Install PipEnv, if not already installed:
